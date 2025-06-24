@@ -27,7 +27,7 @@ Always learning and exploring new technologies.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://t.me/alnawnak" style="text-decoration: none; color: inherit;">
+  <a href="https://t.me/AinunDev" style="text-decoration: none; color: inherit;">
     <span style="display: inline-flex; align-items: center; gap: 8px; background: white; padding: 6px 12px; border-radius: 8px;">
       <img src="https://github.com/AinunDev/AinunDEV/blob/main/telegram.png" width="20" height="20" style="display: inline-block; margin-top: 2px;" />
       <span style="color: black; font-weight: 600;">Message me on Telegram</span>
